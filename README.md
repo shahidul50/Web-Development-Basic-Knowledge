@@ -39,6 +39,7 @@
 - [Progressive Web Application(PWA) এটা কিভাবে কাজ করে?](#progressive-web-applicationpwa-এটা-কিভাবে-কাজ-করে)
 - [Representational State Transfer(REST) কি? এর বৈশিষ্ট্যগুলো কি কি?](#representational-state-transferrest-কি-এর-বৈশিষ্ট্যগুলো-কি-কি)
 - [Application Programming Interface(API) কি? এর বৈশিষ্ট্যগুলো কি কি? এটা কোথায় ব্যবহার হয়?](#application-programming-interfaceapi-কি-এর-বৈশিষ্ট্যগুলো-কি-কি-এটা-কোথায়-ব্যবহার-হয়)
+- [ফুলস্ট্যাক ডেভেলপমেন্ট কানেকটিং দ্য ডটস](#ফুলস্ট্যাক-ডেভেলপমেন্ট-কানেকটিং-দ্য-ডটস)
 
 
 - ## Internet কি? এটার মূল উপাদানগুলো কি কি?
@@ -2964,7 +2965,7 @@
     এভাবে API অন্য System এর কার্যকারিতা Share, যা নতুন Application তৈরি এবং Integration সহজতর করে।
     
     ---
-    
+- ## ফুলস্ট্যাক ডেভেলপমেন্ট কানেকটিং দ্য ডটস
 
 > এই বিষয়গুলো ধারণা নেওয়ার পাশাপাশি আমরা আরেকটা বই পড়ার চেষ্টা করব যেটা পড়ার মাধ্যমে আমাদের Basic ধারনা নেওয়ার Journey টা শেষ হবে। বইটির নামে হচ্ছে “**ফুলস্ট্যাক ডেভেলপমেন্ট কানেকটিং দ্য ডটস**”। বইটি লেখেছেন Web Development বা Technology এর জগতে আমাদের অনেকেরই পরিচিত মুখ বাংলাদেশের একজন গর্বিত সন্তান “এইচ এম নাঈম(HM Nayem)” ভাই। এই বইটি প্রথমদিকে আমি নিজেও অনেকবার পড়েছি Web Development এর বিষয়গুলো নিয়ে একটা ভাল ধারণা পাওয়ার জন্য।
 > 
@@ -2997,6 +2998,3 @@
 - [Programming Basic Knowledge.](https://github.com/shahidul50/Programming-Basic-Knowledge)
 
 > **Written By:** [Shahidul Islam](https://github.com/shahidul50)
-
-[def]: #web-server-কি-web-server-এর-element-ও-ধরণ-গুলো-কি-কি-এর-প্রধান-কাজগুলো-কি-কি
-[def2]: #চলুন-জেনে-নিই-বিখ্যাত-কিছু-web-server-software-এর-নাম-ও-কাজ
